@@ -1,0 +1,10 @@
+numpy
+pandas
+librosa
+tqdm
+webrtcvad
+scikit-learn
+xgboost
+matplotlib
+seaborn
+soundfile
